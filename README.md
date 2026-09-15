@@ -1,5 +1,13 @@
 # Projeto WoundSense: Investigação Computacional de Biomarcadores Digitais Multimodais
 
+## Equipe
+- Abraão G. C. Araújo 
+- Carlos A. A. Lira
+- Jarson K. D. Marinho
+- Kinbelly S. Nascimento
+- Mateus P. A. Pierre
+- Thiago G. Coura
+
 ## 📋 Contexto do Projeto
 O WoundSense é um projeto aplicado de Computação Biomédica focado na investigação de potenciais biomarcadores digitais. Utilizando imagens multimodais, o objetivo é realizar a caracterização objetiva de feridas crônicas de difícil cicatrização. O projeto utiliza a base de dados *Chronic Wounds Multimodal Image Database (WoundsDB). O intuito principal da investigação não é apenas criar um algoritmo com alto desempenho, mas compreender o percurso metodológico que transforma imagens biomédicas brutas em características quantitativas, convertendo-as em evidências potencialmente úteis para a avaliação clínica.
 
